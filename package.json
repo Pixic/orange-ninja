@@ -2,6 +2,7 @@
     "name": "orange-ninja",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://pixic.github.io/orange-ninja",
     "dependencies": {
         "@captor/react-scripts": "3.4.0",
         "@testing-library/jest-dom": "^4.2.4",

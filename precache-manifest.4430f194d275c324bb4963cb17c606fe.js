@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d15310aa987209ccc92cfd56c47c7f4b",
+    "revision": "c7d9babd750a339ac612b95f32146282",
     "url": "/orange-ninja/index.html"
   },
   {
-    "revision": "2c79c7a9b1c3e6ad015b",
+    "revision": "b6eeae9cb4514e356b09",
+    "url": "/orange-ninja/static/css/2.89f067aa.chunk.css"
+  },
+  {
+    "revision": "b3fcd6ec05f3e3a1e7b2",
     "url": "/orange-ninja/static/css/main.523f09c5.chunk.css"
   },
   {
-    "revision": "10d8bc04e4d876eb83ab",
-    "url": "/orange-ninja/static/js/2.8ceb484d.chunk.js"
+    "revision": "b6eeae9cb4514e356b09",
+    "url": "/orange-ninja/static/js/2.15de5cc6.chunk.js"
   },
   {
     "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
-    "url": "/orange-ninja/static/js/2.8ceb484d.chunk.js.LICENSE.txt"
+    "url": "/orange-ninja/static/js/2.15de5cc6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c79c7a9b1c3e6ad015b",
-    "url": "/orange-ninja/static/js/main.1f50a8be.chunk.js"
+    "revision": "b3fcd6ec05f3e3a1e7b2",
+    "url": "/orange-ninja/static/js/main.309ef243.chunk.js"
   },
   {
     "revision": "f57196c9b3de750d25cb",

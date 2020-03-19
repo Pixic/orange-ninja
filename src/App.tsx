@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
+import Counter from "./components/counter";
 
 function App() {
     return (
@@ -16,9 +17,12 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Tjockis
+                    Test
                 </a>
+                <hr />
+                <Counter />
             </header>
+            <body className="App-body"></body>
         </div>
     );
 }
